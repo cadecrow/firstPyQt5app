@@ -4,7 +4,8 @@
 ### How To Run:
 Download src/ to your selected directory. </br>
 Open Terminal and navigate to said directory. </br>
-While in the selected directory (the level containing the src/ directory, not in the src/ directory itself), </br>
+While in the selected directory </br>
+(the level containing the src/ directory, not in the src/ directory itself), </br>
 create a virtual environment to manage dependencies. </br>
 ```
 python3 -m venv <your_venv_name>
