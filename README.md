@@ -37,4 +37,5 @@ fbs run
 Shoutout to Michael Herrmann for creating fbs !!! https://github.com/mherrmann
 
 **When you are ready to leave your virtual environment use ```ctrl+d``` or ```exit```** </br>
+</br>
 **SECRET SAUCE ALERT: I personally like using ```deactivate``` so I can continue using my terminal with having to start a new session.**
