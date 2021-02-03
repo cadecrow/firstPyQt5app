@@ -1,7 +1,7 @@
 # Just an app to remind you that you're a badass
 ### Run this for yourself to see :) </br>
 </br>
-This is the first app I made with PyQt5.
+This is the first app I made with PyQt5. </br>
 ### How To Run:
 Download src/ to your selected directory. </br>
 Open Terminal and navigate to said directory. </br>
