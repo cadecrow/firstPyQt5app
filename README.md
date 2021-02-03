@@ -12,7 +12,7 @@ create a virtual environment to manage dependencies. </br>
 python3 -m venv <your_venv_name>
 ```
 Now you will activate this vitrual environment. </br>
-    (when you come back to run this app a second time, this is where you will begin.)
+    (when you come back to run this app a second time, this is where you will begin.) </br>
 on Windows:
 ```
 call <your_venv_name>/scripts/activate.bat
