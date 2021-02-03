@@ -1,5 +1,5 @@
 # Just an app to remind you that you're a badass
-## Run this for yourself to see :) </br>
+### Run this for yourself to see :) </br>
 
 ### How To Run:
 Download src/ to your selected directory. </br>
