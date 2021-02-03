@@ -6,11 +6,11 @@ Download src/ to your selected directory. </br>
 Open Terminal and navigate to said directory. </br>
 While in the selected directory (the level containing the src/ directory), </br>
 create a virtual environment to manage dependencies. </br>
-```python3 -m venv <your_venv_name>```
+```python3 -m venv <your_venv_name>``` </br>
 on Windows:
-```call <your_venv_name>/scripts/activate.bat```
+```call <your_venv_name>/scripts/activate.bat``` </br>
 On Mac and Linux:
-```source <your_venv_name>/bin/activate```
+```source <your_venv_name>/bin/activate``` </br>
 You can see that the virtual environment is active by the (<your_venv_name>) prefix in your shell. </br>
 </br>
 Now install PyQt5 </br>
