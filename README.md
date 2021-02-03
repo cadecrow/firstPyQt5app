@@ -2,7 +2,9 @@
 ### Run this for yourself to see :) </br>
 </br>
 This is the first app I made with PyQt5. </br>
+
 ### How To Run:
+
 Download src/ to your selected directory. </br>
 Open Terminal and navigate to said directory. </br>
 While in the selected directory </br>
